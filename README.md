@@ -1,5 +1,7 @@
 # CC meets Manim
-Intento de repo con cositas de CC "animadas" con manim
+La idea es disponer de un jupyter notebook con animaciones asociadas a los contenidos del ramo Computación Cientifica.
+
+- .mp4 se generan en media/videos/CC-meets-manim/
 
 ## IMPORTANTE
 ### Instalar
